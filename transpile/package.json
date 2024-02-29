@@ -1,0 +1,15 @@
+{
+  "name": "transpile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js & npx jest --watchAll=false",
+    "test:py": "python app.py & npx jest --watchAll=false"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "supertest": "^6.3.4"
+  }
+}

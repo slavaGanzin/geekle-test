@@ -1,0 +1,11 @@
+{
+  "name": "code-for-test",
+  "version": "1.0.0",
+  "description": "This file contains integration tests for a server application. The tests are written using Jest and axios to make HTTP requests to the server. The server is assumed to be a Python application, as indicated by the spawn command used to start the server process before all tests are run.",
+  "main": "server.test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
