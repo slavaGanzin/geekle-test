@@ -1,3 +1,14 @@
+## Prerequisites
+
+You need 3 language environments to be configured in your system
+1. node.js [Node.js Installation Guide](https://nodejs.org/en/learn/getting-started/how-to-install-nodejs)
+2. python [Python Installation Guide](https://www.python.org/downloads/)
+3. go [Go Installation Guide](https://go.dev/doc/install)
+
+If you would found any troubles, please open an issue in this repo. We want make this comfortable experience for everyone.
+
+
+
 ## Tasks Overview
 
 | Task                                                      | Success | It Took N Minutes | Quality | Usability |
@@ -38,10 +49,9 @@
 
 
 
-# Result
-Example result of your work:
+# Example result of your research
 
-Tool: [Cursor](https://cursor.sh)
+## [Cursor](https://cursor.sh)
 
 | Task                                                      | Success | It Took N Minutes | Quality | Usability |
 |-----------------------------------------------------------|:-------:|:-----------------:|:-------:|:---------:|
