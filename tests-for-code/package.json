@@ -1,0 +1,11 @@
+{
+  "name": "tests-for-code",
+  "version": "1.0.0",
+  "description": "The `server.go` file is part of a Go application that defines a simple REST API server for managing a collection of items. It includes a `main` function that sets up HTTP route handlers and starts the server. The server has handlers for different HTTP methods (GET, POST, PUT, DELETE) to perform CRUD operations on items.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
