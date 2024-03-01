@@ -7,14 +7,14 @@
 
 ## [Tool name](https://link.to.the.tool)
 
-| Task                                                      | Success | It Took N Minutes | Quality | Usability |
-|-----------------------------------------------------------|:-------:|:-----------------:|:-------:|:---------:|
-| [Go Server Application Testing](tests-for-code/README.md) |         |                   |         |           |
-| [Fibonacci Performance Improvement](improve/README.md)    |         |                   |         |           |
-| [Tennis Scoring Refactoring](refactoring/README.md)       |         |                   |         |           |
-| [Python Server Generation](code-for-test/README.md)       |         |                   |         |           |
-| [Node.js to Python Transpilation](transpile/README.md)    |         |                   |         |           |
-| Generate documentation                                    |         |                   |         |           |
+| Task                                                      | Success | It Took N Minutes | Quality | Usability | Video |
+|-----------------------------------------------------------|:-------:|:-----------------:|:-------:|:---------:|:-----:|
+| [Go Server Application Testing](tests-for-code/README.md) |         |                   |         |           |       |
+| [Fibonacci Performance Improvement](improve/README.md)    |         |                   |         |           |       |
+| [Tennis Scoring Refactoring](refactoring/README.md)       |         |                   |         |           |       |
+| [Python Server Generation](code-for-test/README.md)       |         |                   |         |           |       |
+| [Node.js to Python Transpilation](transpile/README.md)    |         |                   |         |           |       |
+| Generate documentation                                    |         |                   |         |           |       |
 
 
 # Example result of your research: [Cursor](https://github.com/slavaGanzin/geekle-test/tree/cursor)
@@ -27,6 +27,8 @@
 **Quality** - score from 0 to 5, how satisfied you are with the result
 
 **Usability** - was it comfortable to perform these tasks with this tool
+
+**Video** - link to a video in repo
 
 ## Prerequisites
 
