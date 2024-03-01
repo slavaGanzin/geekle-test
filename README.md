@@ -1,5 +1,5 @@
 # How to do a research
-1. For this repo
+1. Fork this repo
 2. Conduct your research
 3. Commit all the code generated
 4. Fill table below
@@ -18,18 +18,7 @@
 
 
 # Example result of your research
-
-## [Cursor](https://cursor.sh)
-
-| Task                                                      | Success | It Took N Minutes | Quality | Usability |
-|-----------------------------------------------------------|:-------:|:-----------------:|:-------:|:---------:|
-| [Go Server Application Testing](tests-for-code/README.md) |  +      |        3           |   4     |    5     |
-| [Fibonacci Performance Improvement](improve/README.md)    |  +      |        10          |   5     |    5     |
-| [Tennis Scoring Refactoring](refactoring/README.md)       |  +      |        1           |   5     |    5     |
-| [Python Server Generation](code-for-test/README.md)       |  +      |        3           |   4     |    5     |
-| [Node.js to Python Transpilation](transpile/README.md)    |  +      |        3           |   4     |    5     |
-| Generate documentation                                    |  +      |        10          |   3     |    3     |
-
+[Cursor](https://github.com/your-username/research-repo/tree/cursor)
 
 
 #### Description of columns
