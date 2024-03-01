@@ -29,7 +29,7 @@
 
 **Usability** - was it comfortable to perform these tasks with this tool
 
-**Video** - link to a video in repo. Example:
+**Video** - link to a video in repo. Example: [View](tests-for-code/test-for-code.mp4)
 
 
 ## Prerequisites
