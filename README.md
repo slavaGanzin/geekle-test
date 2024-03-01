@@ -21,7 +21,9 @@
 <br>
 <br>
 <br>
+
 # Example result of your research: [Cursor](https://github.com/slavaGanzin/geekle-test/tree/cursor)
+
 # Example table (better look into respective branch: [Cursor](https://github.com/slavaGanzin/geekle-test/tree/cursor))
 ## [Cursor](https://cursor.sh)
 
