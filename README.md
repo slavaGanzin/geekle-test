@@ -3,6 +3,7 @@
 2. Conduct your research
 3. Commit all the code generated
 4. Fill table below
+5. **Add videos for each test to respective folders**
 5. Commit and push to your repo
 
 ## [Tool name](https://link.to.the.tool)
@@ -28,7 +29,8 @@
 
 **Usability** - was it comfortable to perform these tasks with this tool
 
-**Video** - link to a video in repo
+**Video** - link to a video in repo. Example:
+
 
 ## Prerequisites
 
