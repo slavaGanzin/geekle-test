@@ -17,9 +17,7 @@
 | Generate documentation                                    |         |                   |         |           |
 
 
-# Example result of your research
-[Cursor](https://github.com/your-username/research-repo/tree/cursor)
-
+# Example result of your research: [Cursor](https://github.com/slavaGanzin/geekle-test/tree/cursor)
 
 #### Description of columns
 **Success** - yes or no
