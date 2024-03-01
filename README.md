@@ -22,7 +22,7 @@
 <br>
 <br>
 
-# Example result of your research: [Cursor](https://github.com/slavaGanzin/geekle-test/tree/cursor)
+# Example research result: [Cursor](https://github.com/slavaGanzin/geekle-test/tree/cursor)
 
 # Example table (better look into respective branch: [Cursor](https://github.com/slavaGanzin/geekle-test/tree/cursor), videos will open only in "cursor" branch)
 ## [Cursor](https://cursor.sh)
