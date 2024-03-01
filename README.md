@@ -3,7 +3,7 @@
 2. Conduct your research
 3. Commit all the code generated
 4. Fill table below
-5. **Add videos for each test to respective folders and link them into table**. Example: [View](tests-for-code/test-for-code.mp4)
+5. **Add videos for each test to respective folders and link them into table**. Example: `[View](tests-for-code/test-for-code.mp4)`
 5. Commit and push to your repo
 6. Make a pull request to this repo. We'll not merge them, it's just to see everything in one place
 
@@ -30,7 +30,7 @@
 
 **Usability** - was it comfortable to perform these tasks with this tool
 
-**Video** - link to a video in repo. Example: [View](tests-for-code/test-for-code.mp4)
+**Video** - link to a video in repo. Example: `[View](tests-for-code/test-for-code.mp4)`
 
 
 ## Prerequisites
