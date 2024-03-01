@@ -1,5 +1,5 @@
 # How to do a research
-1. For this repo
+1. Fork this repo
 2. Conduct your research
 3. Commit all the code generated
 4. Fill table below
@@ -7,29 +7,28 @@
 
 ## [Tool name](https://link.to.the.tool)
 
-| Task                                                      | Success | It Took N Minutes | Quality | Usability |
-|-----------------------------------------------------------|:-------:|:-----------------:|:-------:|:---------:|
-| [Go Server Application Testing](tests-for-code/README.md) |         |                   |         |           |
-| [Fibonacci Performance Improvement](improve/README.md)    |         |                   |         |           |
-| [Tennis Scoring Refactoring](refactoring/README.md)       |         |                   |         |           |
-| [Python Server Generation](code-for-test/README.md)       |         |                   |         |           |
-| [Node.js to Python Transpilation](transpile/README.md)    |         |                   |         |           |
-| Generate documentation                                    |         |                   |         |           |
+| Task                                                      | Success | It Took N Minutes | Quality | Usability | Video  |
+|-----------------------------------------------------------|:-------:|:-----------------:|:-------:|:---------:|:------:|
+| [Go Server Application Testing](tests-for-code/README.md) |         |                   |         |           |        |
+| [Fibonacci Performance Improvement](improve/README.md)    |         |                   |         |           |        |
+| [Tennis Scoring Refactoring](refactoring/README.md)       |         |                   |         |           |        |
+| [Python Server Generation](code-for-test/README.md)       |         |                   |         |           |        |
+| [Node.js to Python Transpilation](transpile/README.md)    |         |                   |         |           |        |
+| Generate documentation                                    |         |                   |         |           |        |
 
 
 # Example result of your research
 
 ## [Cursor](https://cursor.sh)
 
-| Task                                                      | Success | It Took N Minutes | Quality | Usability |
-|-----------------------------------------------------------|:-------:|:-----------------:|:-------:|:---------:|
-| [Go Server Application Testing](tests-for-code/README.md) |  +      |        3           |   4     |    5     |
-| [Fibonacci Performance Improvement](improve/README.md)    |  +      |        10          |   5     |    5     |
-| [Tennis Scoring Refactoring](refactoring/README.md)       |  +      |        1           |   5     |    5     |
-| [Python Server Generation](code-for-test/README.md)       |  +      |        3           |   4     |    5     |
-| [Node.js to Python Transpilation](transpile/README.md)    |  +      |        3           |   4     |    5     |
-| Generate documentation                                    |  +      |        10          |   3     |    3     |
-
+| Task                                                      | Success | It Took N Minutes | Quality | Usability | Video                                  |
+|-----------------------------------------------------------|:-------:|:-----------------:|:-------:|:---------:|:--------------------------------------:|
+| [Go Server Application Testing](tests-for-code/README.md) |  +      |        3          |   4     |    5      | [View](tests-for-code/test-for-code.mp4) |
+| [Fibonacci Performance Improvement](improve/README.md)    |  +      |        2          |   5     |    5      | [View](improve/improve.mp4)           |
+| [Tennis Scoring Refactoring](refactoring/README.md)       |  +      |        4          |   5     |    5      | [View](refactoring/refactor.mp4)      |
+| [Python Server Generation](code-for-test/README.md)       |  +      |        5          |   4     |    5      | [View](code-for-test/code-for-test.mp4) |
+| [Node.js to Python Transpilation](transpile/README.md)    |  +      |        2          |   4     |    5      | [View](transpile/transpile.mp4)       |
+| Generate documentation                                    |  +      |        10         |   3     |    3      | [View](generatedocs.mp4)                                      |
 
 
 #### Description of columns
@@ -40,6 +39,8 @@
 **Quality** - score from 0 to 5, how satisfied you are with the result
 
 **Usability** - was it comfortable to perform these tasks with this tool
+
+**Video** - link to publicly hosted video (use loom, or any other video service)
 
 ## Prerequisites
 

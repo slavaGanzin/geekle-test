@@ -5,22 +5,22 @@ const serverUrl = 'http://localhost:8080';
 
 let serverProcess;
 
-beforeAll((done) => {
-  serverProcess = spawn('python', ['server.py']); // Adjust the path to the actual location of server.go
-  serverProcess.stderr.on('data', (data) => {
-    console.error(`stderr: ${data}`);
-  });
-  serverProcess.stdout.on('data', (data) => {
-    console.log(`stdout: ${data}`);
-    if (data.includes('Server is running on http://localhost:8080')) {
-      done();
-    }
-  });
-});
+// beforeAll((done) => {
+//   serverProcess = spawn('python', ['server.py']); // Adjust the path to the actual location of server.go
+//   serverProcess.stderr.on('data', (data) => {
+//     console.error(`stderr: ${data}`);
+//   });
+//   serverProcess.stdout.on('data', (data) => {
+//     console.log(`stdout: ${data}`);
+//     // if (data.includes('Server is running on http://localhost:8080')) {
+//       done();
+//     // }
+//   });
+// });
 
-afterAll(() => {
-  serverProcess.kill();
-});
+// afterAll(() => {
+//   serverProcess.kill();
+// });
 
 describe('Items API', () => {
   it('GET /items should return all items', async () => {
